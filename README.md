@@ -22,7 +22,7 @@ To get started with SeekJob locally, follow these steps:
 2. Navigate to the project directory:
 
   ```bash
-  cd seekjob
+  cd Jobseek_reactjs
   ```
 3. Install the project dependencies:
 
